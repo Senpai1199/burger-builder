@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import CheckoutSummary from "../../../components/Burger/Order/CheckoutSummary/CheckoutSummary";
+import CheckoutSummary from "../../components/Burger/Order/CheckoutSummary/CheckoutSummary";
 import { Route } from "react-router-dom";
 import ContactData from "./ContactData/ContactData";
 

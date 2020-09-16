@@ -1,8 +1,8 @@
 import React from "react";
-import Button from "../../../../components/UI/Button/Button";
+import Button from "../../../components/UI/Button/Button";
 import classes from "./ContactData.module.css";
-import axios from "../../../../axios-orders";
-import Spinner from "../../../../components/UI/Spinner/Spinner";
+import axios from "../../../axios-orders";
+import Spinner from "../../../components/UI/Spinner/Spinner";
 
 class ContactData extends React.Component {
   state = {
